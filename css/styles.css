@@ -1,0 +1,14 @@
+#main
+{
+	 background-image: url('../images/reloj.jpg');
+	 width: 500px;
+	 height: 500px;
+}
+#tauro
+{
+	width: 60px;
+    height: 60px;
+    position: absolute;
+   	left: 140px;
+	top: 43px;
+}
